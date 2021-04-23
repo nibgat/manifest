@@ -1,0 +1,25 @@
+# NİBGAT® | Core Tech
+
+NİBGAT®, bir kaç developer'ın bir araya gelerek kurduğu bir yapıdır.
+Topluluk olarak faaliyet göstermeye başlamış, şimdi ise Çekirdek Ekip ve Topluluk olarak ikiye ayrılmıştır.
+
+Kaliteli yazılımın işin hakkının verilerek çıkacağına inanan bu ekip, işini profesyonel olarak yapmaya kendini adamıştır.
+
+Çekirdek Ekip'e katılmak için Topluluk üzerinde ciddi faaliyetlerde bulunmak katılmak isteyen kişinin kendini ispatlaması gerekmektedir. Topluluk için ise böyle bir durum söz konusu değildir.
+
+NİBGAT® tüm hedeflerini, işleyişini ve izlediği yol, yordamı manifestosu dahilinde yürütmeye karar almıştır.
+Bu manifesto için herkes PR ile katkıda bulunabilir. Hedefe uygun kural önerisi yada işleyiş önerilerini aylık toplantılarımız ile inceleyip, manifesto güncellemesi ile dahil ediyor olacağız.
+
+
+### Güncel Kilometre Taşı:
+
+```Geliştiricinin Yükselişi - Rise of the Developers```
+Bu slogan belirli dönemler değişen ve uygulandığı dönem yapılacak olan işlerin hedefini belirten kilometre taşıdır. Bu döneme NİBGAT®, Geliştiricinin Yükselişi adını vermiştir. Bu isim ile amaç NİBGAT®'ın yeni başladığını ve yükselişe doğru ilerlediğini anlatmaktır.
+
+
+### Maddeler:
+
+* Çekirdek Ekip topluluğun tüm kararlarını onaylar yada reddeder. Tüm yasama, yürütme ve yargı bu noktada Çekirdek Ekip'e aittir.
+* Topluluk daima devam edecek ve asla kapatılamayacaktır.
+* Topluluğa dileyen herkes bedelsiz katılabilir.
+* Topluluğa katılmış birisi her türlü açık kaynaklara katkıda bulunabilir.
