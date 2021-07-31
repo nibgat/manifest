@@ -1,6 +1,6 @@
 # NİBGAT® | Core Tech
 
-NİBGAT®, bir kaç developer'ın bir araya gelerek kurduğu bir yapıdır.
+NİBGAT®, bir kaç geliştiricinin bir araya gelerek kurduğu bir yapıdır.
 Topluluk olarak faaliyet göstermeye başlamış, şimdi ise Çekirdek Ekip ve Topluluk olarak ikiye ayrılmıştır.
 
 Kaliteli yazılımın işin hakkının verilerek çıkacağına inanan bu ekip, işini profesyonel olarak yapmaya kendini adamıştır.
