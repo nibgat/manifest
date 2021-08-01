@@ -19,7 +19,8 @@ Bu slogan belirli dönemler değişen ve uygulandığı dönem yapılacak olan i
 
 ### Maddeler:
 
-* Çekirdek Ekip topluluğun tüm kararlarını onaylar yada reddeder. Tüm yasama, yürütme ve yargı bu noktada Çekirdek Ekip'e aittir.
-* Topluluk daima devam edecek ve asla kapatılamayacaktır.
-* Topluluğa dileyen herkes bedelsiz katılabilir.
-* Topluluğa katılmış birisi her türlü açık kaynaklara katkıda bulunabilir.
+# A. İşleyiş:
+  * Çekirdek Ekip topluluğun tüm kararlarını onaylar yada reddeder. Tüm yasama, yürütme ve yargı bu noktada Çekirdek Ekip'e aittir.
+  * Topluluk daima devam edecek ve asla kapatılamayacaktır.
+  * Topluluğa dileyen herkes bedelsiz katılabilir.
+  * Topluluğa katılmış birisi her türlü açık kaynaklara katkıda bulunabilir.
