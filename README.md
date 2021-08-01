@@ -11,15 +11,15 @@ NİBGAT® tüm hedeflerini, işleyişini ve izlediği yol, yordamı manifestosu 
 Bu manifesto için herkes PR ( pull-request ) ile katkıda bulunabilir. Hedefe uygun kural önerisi yada işleyiş önerilerini aylık toplantılarımız ile inceleyip, manifesto güncellemesi ile dahil ediyor olacağız.
 
 
-### Güncel Kilometre Taşı:
+## Güncel Kilometre Taşı:
 
 ```Geliştiricinin Yükselişi - Rise of the Developers```
 Bu slogan belirli dönemler değişen ve uygulandığı dönem yapılacak olan işlerin hedefini belirten kilometre taşıdır. Bu döneme NİBGAT®, Geliştiricinin Yükselişi adını vermiştir. Bu isim ile amaç NİBGAT®'ın yeni başladığını ve yükselişe doğru ilerlediğini anlatmaktır.
 
 
-### Maddeler:
+## Maddeler:
 
-# A. İşleyiş:
+### A. İşleyiş:
   * Çekirdek Ekip topluluğun tüm kararlarını onaylar yada reddeder. Tüm yasama, yürütme ve yargı bu noktada Çekirdek Ekip'e aittir.
   * Topluluk daima devam edecek ve asla kapatılamayacaktır.
   * Topluluğa dileyen herkes bedelsiz katılabilir.
